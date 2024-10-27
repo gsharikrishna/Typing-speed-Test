@@ -38,12 +38,16 @@ To run the Typing Speed Test locally, follow these steps:
    
    ```bash
    git clone https://github.com/gsharikrishna/Typing-speed-Test.git
+   
 2.**Navigation**
 To navigate to the project folder, use the following command in your terminal:
 
 ```bash
 cd your-repository-name
-3. **Open the file**:
- run the index.html file with liveserver
+open index.html with liveserver 
+ 
+
+
+
 
 
