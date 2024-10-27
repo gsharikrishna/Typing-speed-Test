@@ -43,7 +43,7 @@ To navigate to the project folder, use the following command in your terminal:
 
 ```bash
 cd your-repository-name
-
-3. open index.html and run the file
+3. **Open the file**:
+ run the index.html file with liveserver
 
 
